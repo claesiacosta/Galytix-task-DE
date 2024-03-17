@@ -7,7 +7,7 @@ This Phrase Matching Pipeline is a tool that finds the closest match for a given
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/phrase-matching-pipeline.git
+    git clone https://github.com/claesiacosta/Galytix-task-DE.git 
     ```
 
 2. Navigate to the project directory:
